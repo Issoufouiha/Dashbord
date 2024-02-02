@@ -1,4 +1,4 @@
-![header]([https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=YassDevWorld%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world%20of%20endless%20learning%20adventure!&descAlignY=53&descAlign=62](https://scontent.facc7-1.fna.fbcdn.net/v/t39.30808-6/370381418_1771778456592733_9218815250204468298_n.jpg?stp=dst-jpg_p720x720&_nc_cat=101&ccb=1-7&_nc_sid=783fdb&_nc_ohc=z6f8c9gA6f8AX-0RYRT&_nc_ht=scontent.facc7-1.fna&oh=00_AfCzeIhI8y1K9nUtcl-UKPICUxdflxX5ZDWO7ObfTeec2A&oe=65C24153))
+ ![header](https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/profilt.JPG)
 ### Hi there 👋, my name is `Ayouba Issoufou`
 ### Last Seen 👀 Sunday, 5 November at 12:21 UTC
 
@@ -15,16 +15,14 @@ Passion-driven tech addict. Open to learn and explore new technologies that exis
 ## ️ Languages and tools
 
 
-##### Web Development
+##### FrondEnd
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"/></code>
 <code><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"/></code>
-
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code>
+##### BackEnd
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"/></code>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/#)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yassine)
