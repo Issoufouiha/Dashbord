@@ -16,18 +16,18 @@ Passion-driven tech addict. Open to learn and explore new technologies that exis
 
 
 ##### FrondEnd
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"/></code>
-<code><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/pngegg%20(9).png" alt="javascript" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/pngwing.com%20(1).png" alt="javascript" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/pngwing.com.png" alt="javascript" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60"/></code>
+<code><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60"/></code>
+<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/pngegg%20(9).png" alt="javascript" width="60"/></code>
+<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/pngwing.com%20(1).png" alt="javascript" width="60"/></code>
+<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/pngwing.com.png" alt="javascript" width="60"/></code>
 ##### BackEnd
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/node-js-express-js-javascript-solution-stack-web-application-others-237f81086df923da9c2718e6170912c9.png" alt="nodejs" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/5bbc11749bc4b-6df94a7d9c88b8f193ffc41bd1da28f8.png" alt="nodejs" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="60"/></code>
+<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/node-js-express-js-javascript-solution-stack-web-application-others-237f81086df923da9c2718e6170912c9.png" alt="nodejs" width="60"/></code>
+<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/5bbc11749bc4b-6df94a7d9c88b8f193ffc41bd1da28f8.png" alt="nodejs" width="60"/></code>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/#)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
