@@ -21,8 +21,7 @@ Passion-driven tech addict. Open to learn and explore new technologies that exis
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"/></code>
 <code><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/pngegg%20(9).png" alt="javascript" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/pngegg%20(9).png" alt="javascript" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/pngegg%20(9).png" alt="javascript" width="60"/></code>
 <code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/pngwing.com%20(1).png" alt="javascript" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/pngwing.com.png" alt="javascript" width="40"/></code>
 ##### BackEnd
