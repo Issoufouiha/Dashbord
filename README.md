@@ -46,5 +46,3 @@ Passion-driven tech addict. Open to learn and explore new technologies that exis
      
 
 ![Profile views](https://gpvc.arturio.dev/yassine-hamadou)
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
