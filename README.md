@@ -26,6 +26,8 @@ Passion-driven tech addict. Open to learn and explore new technologies that exis
 <code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/pngwing.com.png" alt="javascript" width="40"/></code>
 ##### BackEnd
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/node-js-express-js-javascript-solution-stack-web-application-others-237f81086df923da9c2718e6170912c9.png" alt="nodejs" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/Issoufouiha/Issoufouiha/main/5bbc11749bc4b-6df94a7d9c88b8f193ffc41bd1da28f8.png" alt="nodejs" width="40"/></code>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/#)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
