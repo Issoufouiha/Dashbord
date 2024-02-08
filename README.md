@@ -49,5 +49,7 @@ Passion-driven tech addict. Open to learn and explore new technologies that exis
       
 ### 🔥 My Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issoufouiha&hide=contribs,prs&theme=tokyonight)](https://github.com/Issoufouiha/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Issoufouiha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Issoufouiha&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Issoufouiha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
