@@ -49,6 +49,5 @@ Passion-driven tech addict. Open to learn and explore new technologies that exis
       
 ### 🔥 My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Issoufouiha&layout=compact&theme=vision-friendly-dark)](https://github.com/Issoufouiha/github-readme-stats)  
- <br />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Issoufouiha&theme=merko&hide_border=false)](https://git.io/streak-st)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issoufouiha&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
