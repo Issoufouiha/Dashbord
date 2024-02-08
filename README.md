@@ -49,5 +49,5 @@ Passion-driven tech addict. Open to learn and explore new technologies that exis
       
 ### 🔥 My Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issoufouiha&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Issoufouiha&hide=contribs,prs&theme=tokyonight)](https://github.com/Issoufouiha/github-readme-stats)
 
