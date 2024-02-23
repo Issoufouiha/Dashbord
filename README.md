@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I am a full-stack web developer
 - 💞️ I’m looking to collaborate on your projects
-- 📫 How to reach me yacoseidou@gmail.com , fb https://www.facebook.com/ayouba.issoufou.1/ and on https://www.linkedin.com/in/ayouba-issoufou-715864278/
+- 📫 How to reach me ayouba.yahoo2000@gmail.com , fb https://www.facebook.com/ayouba.issoufou.1/ and on https://www.linkedin.com/in/ayouba-issoufou-715864278/
 <!---
 Yacoubou-seidou/Yacoubou-seidou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
