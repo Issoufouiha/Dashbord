@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayouba Issoufou also know as oxygenne
+- 👋 Hi, I’m @Ayouba Issoufou also know as oxygen
 - 👀 I’m interested in web development
 - 🌱 I am a full-stack web developer
 - 💞️ I’m looking to collaborate on your projects
